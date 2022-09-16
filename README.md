@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucaV0S
-- 👀 I’m interested in C#, Python
-- 🌱 I’m currently learning C#, Python and WPF
+- 👀 I’m interested in Java, Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on Unity GameEngine or C#-projects
 - 📫 How to reach me:Discord--> #4418 
 
